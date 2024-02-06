@@ -1,3 +1,5 @@
 This is File B
 
 This is the 2nd commit in main branch
+
+This is the 3rd commit in main branch to check ORT Strategy.
