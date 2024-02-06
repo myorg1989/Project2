@@ -1,2 +1,1 @@
 This is File C in Feature A branch
-File C new commit in Feature A branch to check ORT Strategy
