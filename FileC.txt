@@ -1,1 +1,3 @@
 This is File C in Feature A branch
+
+Change made for ORT Strategy 
