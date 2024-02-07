@@ -3,3 +3,5 @@ This is File B
 This is the 2nd commit in main branch
 
 This is the 3rd commit in the main branch to check ORT Strategy.
+
+This is the 4th commit in the main branch for squash merge
