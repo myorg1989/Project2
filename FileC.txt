@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 This is File C in Feature A branch
+=======
+This is File C in Feature A branch
+
+Change made for ORT Strategy 
+
+This change is for squash merge
+>>>>>>> FeatureA
